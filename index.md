@@ -1,4 +1,3 @@
-## YanessaB.github.io
-A journey in coding.
 
+[Unplugged Project](https://yanessab.github.io/unplugged-project/)
 
