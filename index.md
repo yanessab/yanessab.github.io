@@ -8,3 +8,5 @@
 [Lolcat Clock](https://yanessab.github.io/lolcat-clock/)
 
 [Magic 8 Ball](https://yanessab.github.io/magic8ball/)
+
+[Rogue Pickings](https://yanessab.github.io/rogue-pickings-project/)
