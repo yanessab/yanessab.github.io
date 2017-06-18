@@ -6,3 +6,5 @@
 [Interactive Election Map](https://yanessab.github.io/election-map/)
 
 [Lolcat Clock](https://yanessab.github.io/lolcat-clock/)
+
+[Magic 8 Ball](https://yanessab.github.io/magic8ball/)
