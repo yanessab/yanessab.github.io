@@ -10,3 +10,5 @@
 [Magic 8 Ball](https://yanessab.github.io/magic8ball/)
 
 [Rogue Pickings](https://yanessab.github.io/rogue-pickings-project/)
+
+[Gradient Project](https://yanessab.github.io/ampersand-gradient-responsive/)
